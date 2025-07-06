@@ -1,7 +1,7 @@
 # Landing Page - Receita Bolo de Cenoura
-Receita bolo de cenoura
+*Receita bolo de cenoura*
 
-# Estas alterações tornam o código mais semântico, consistente e com melhor manutenibilidade. As principais melhorias foram:
+**Estas alterações tornam o código mais semântico, consistente e com melhor manutenibilidade. As principais melhorias foram:**
 
 Correção de erros de sintaxe no CSS
 
@@ -15,4 +15,4 @@ Melhorias na responsividade
 
 Correção da estrutura da lista ordenada
 
-O código original já estava bom, essas são apenas sugestões para torná-lo ainda melhor!
+**O código original já estava bom, essas são apenas sugestões para torná-lo ainda melhor!**
