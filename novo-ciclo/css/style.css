@@ -49,10 +49,20 @@ h1 {
 
 h2 {
     display: flex;
-    align-items: center;
-    gap: 10px;
+    justify-content: flex-end;
+    
 }
 
+.avaliacao-box {
+    border: 1px solid rgb(255, 136, 2);
+    border-radius: 20px;
+    padding: 7px 20px;
+    background-color: rgb(255, 136, 2);
+    display: inline-block;
+    font-size: clamp(16px, 1.2vw, 20px);
+    color: #ffffff;
+
+}
 
 .video-container {
     margin: 2rem 0;
