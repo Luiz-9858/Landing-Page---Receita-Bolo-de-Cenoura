@@ -64,6 +64,17 @@ h2 {
 
 }
 
+p {
+    color:black;
+}
+
+h3 {
+    border: 1px solid #ccc;
+    padding: 5px;
+    color: #282828;
+    font-size: 20px;
+}
+
 .video-container {
     margin: 2rem 0;
     text-align: center;
