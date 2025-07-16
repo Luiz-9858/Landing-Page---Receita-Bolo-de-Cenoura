@@ -37,10 +37,11 @@ body {
 }
 
 header {
+    color: var(--cor-primaria);
     text-align: center;
     font-size: 1rem;
     padding: 2rem 0;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .destaque {
