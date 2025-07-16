@@ -18,11 +18,11 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    background: #dadada;
+   
 }
 
 .item {
-    background: rgb(79, 79, 79);
+    background: #ececec;
     padding: 10px 5px;
     border-radius: 2px;
 }
@@ -78,14 +78,16 @@ h2 {
 }
 
 p {
-    color:black;
+    color:rgb(0, 0, 0);
 }
 
 h3 {
-    border: 1px solid #dadada;
-    padding: 5px;
-    color: #282828;
-    font-size: 20px;  
+    color: black;
+    background: #ececec;
+    padding: 5px 18px;
+    border-radius: 2px;
+    font-size: 1.5rem;
+    
 }
 
 
