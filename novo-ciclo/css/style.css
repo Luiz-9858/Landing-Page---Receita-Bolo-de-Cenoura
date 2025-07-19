@@ -3,12 +3,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
 }
 
 :root {
-    --cor-primaria: rgb(255, 85, 0);
-    --cor-secundaria: rgb(255, 85, 0);
+    --cor-primaria: rgba(255, 121, 55, 0.91);
+    --cor-secundaria: rgba(255, 121, 55, 0.91);
     --cor-texto: rgb(79, 79, 79);
    
 }
@@ -40,7 +42,7 @@ body {
 header {
     color: var(--cor-primaria);
     text-align: center;
-    font-size: 1.rem;
+    font-size: 1rem;
     padding: 2rem 0;
     margin-bottom: 1rem;
 }
@@ -48,7 +50,7 @@ header {
 .destaque {
     background-color: var(--cor-secundaria);
     border-radius: 30px;
-    font-size: 1.25rem;
+    font-size: 2.25rem;
     color: #ffffff;
     text-align: right;
     padding: 0.5rem;
@@ -69,12 +71,12 @@ h2 {
 }
 
 .avaliacao-box {
-    border: 1px solid rgb(255, 85, 0);
-    border-radius: 20px;
+    border: 3px solid #ff6a28;
+    border-radius: 30px;
     padding: 7px 20px;
-    background-color: rgb(255, 85, 0);
+    background-color: #ff6a28;
     display: inline-block;
-    font-size: clamp(16px, 1.2vw, 20px);
+    font-size: clamp(20px, 1.2vw, 20px);
     color: #ffffff;
 
 }
