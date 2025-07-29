@@ -63,7 +63,7 @@
 }
 
 .item {
-    background: #ececec;
+    display: flex;
     padding: 10px 5px;
     border-radius: 2px;
     font-size: 1.2rem;
@@ -96,14 +96,16 @@ header {
 }
 
 h1 {
-    font-size: 2.8rem;
+    font-size: 3.0rem;
+    font-weight: bold;
     margin: 0 auto; 
     padding: 0;
-    color: var(--cor-texto);
+    color: #131313;
     text-align: center;
 }
 
 h2 {
+    font-size: 2.0rem;
     display: flex;
     justify-content: flex-end;
     
@@ -159,7 +161,7 @@ footer {
     }
 
     h1 {
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     .destaque {
@@ -168,7 +170,7 @@ footer {
     }
 
     .avaliacao-box {
-        font-size: 14px;
+        font-size: 17px;
         padding: 5px 15px;
     }
 
